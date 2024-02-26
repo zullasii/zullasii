@@ -1,0 +1,15 @@
+- 👋 Hi, I’m @zullasii
+- 👀 I’m interested in programming languages, web3 and computers
+- 🌱 I'm currently learning Python programming and the web3 ecosystem
+- 💞️ I’m looking to collaborate on (I dont know🙃)
+- 📫 How to reach me in Telegram: @zullasii
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love spaghetti with cheese
+
+- - 👋 Привет, я @zullasii
+- 👀 Интересуюсь языками программирования, web3 и компьютерами
+- 🌱 Сейчас я изучаю программирование на Python и экосистему web3.
+- 💞️ Ищу сотрудничество (не знаю🙃)
+- 📫 Как связаться со мной в Telegram: @zullasii
+- 😄 Местоимения: Он
+- ⚡ Интересный факт: Люблю спагетти с сыром.
