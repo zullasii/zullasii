@@ -5,7 +5,7 @@
 - 📫 How to reach me in Telegram: @zullasii
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love spaghetti with cheese
-
+------------------------------------------------------------------------
 - 👋 Привет, я @zullasii
 - 👀 Интересуюсь языками программирования, web3 и компьютерами
 - 🌱 Сейчас я изучаю программирование на Python и экосистему web3.
